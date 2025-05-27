@@ -1,18 +1,18 @@
-<h2 align="left">Hi 👋! My name is.. muhammad naser alaa aldin.studying a 👨‍💻Information Engineering the Syrian virtual university {{third year}}/ui.ux Desgenr</h2>
+<h2 alig="left">Hi 👋! My name is.. muhammad naser alaa aldin.studying a 👨‍💻Information Engineering the Syrian virtual university {{third year}}/ui.ux Desgenr</h2>
 
 
 
-<div align="center">
+<div alig="center">
   <img height="250" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGhtMDljNGMwdXd2Zm15Ym00Zndza29oYXp1d2Yyam1iYW1nYnRmcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EfcdFGyeLvwWA9WPhY/giphy.gif"  />
 </div>
 
 
 
-<h4 align="center">The Programing Is My  World</h4>
+<h4 alig="center">The Programing Is My  World</h4>
 
 
 
-<div align="center">
+<div alig="center">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
@@ -23,7 +23,7 @@
 
 
 
-<div align="center">
+<div alig="center">
   <img src="https://streak-stats.demolab.com?user=AlNaserr&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlNaserr&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=7&theme=gruvbox&hide_border=true" height="150" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=AlNaserr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -33,7 +33,7 @@
 
 <br clear="both">
 
-<div align="center">
+<div alig="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo"  />
@@ -59,8 +59,7 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AlNaserr/AlNaserr/output/pacman-contribution-graph.svg">
 </picture>
 
-<div align="center">
+<div alig="center">
   <img src="https://profile-counter.glitch.me/AlNaserr/count.svg?"  />
 </div>
-
 

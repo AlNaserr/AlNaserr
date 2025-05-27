@@ -1,77 +1,66 @@
-<h1 align="center">مرحباً! أنا محمد ناصر علاء الدين 👋</h1>
+<h2 align="left">Hi 👋! My name is.. muhammad naser alaa aldin.studying a 👨‍💻Information Engineering the Syrian virtual university {{third year}}/ui.ux Desgenr</h2>
 
-<p align="center">
-  طالب هندسة معلوماتية في <strong>الجامعة الافتراضية السورية - السنة الثالثة</strong>، ومصمم UI/UX بشغف عالي للتكنولوجيا والتصميم البرمجي!
-</p>
 
----
 
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGhtMDljNGMwdXd2Zm15Ym00Zndza29oYXp1d2Yyam1iYW1nYnRmcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EfcdFGyeLvwWA9WPhY/giphy.gif" height="200" />
-</p>
+<div align="center">
+  <img height="250" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGhtMDljNGMwdXd2Zm15Ym00Zndza29oYXp1d2Yyam1iYW1nYnRmcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EfcdFGyeLvwWA9WPhY/giphy.gif"  />
+</div>
 
----
 
-### 🚀 "البرمجة عالمي... والتصميم هو لغتي!"
 
-### 👨‍💻 المهارات والتقنيات:
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" />
-</p>
+<h4 align="center">The Programing Is My  World</h4>
 
----
 
-### 📊 إحصائيات GitHub:
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AlNaserr&locale=en&mode=weekly&theme=tokyonight&hide_border=false" />
-  <img src="https://github-readme-stats.vercel.app/api?username=AlNaserr&show_icons=true&theme=tokyonight&hide_border=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlNaserr&layout=compact&theme=tokyonight&hide_border=false" />
-</p>
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
----
 
-### 🏆 الجوائز والتقديرات:
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AlNaserr&theme=gruvbox&no-bg=true&margin-w=10" />
-</p>
 
----
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=AlNaserr&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlNaserr&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=7&theme=gruvbox&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=AlNaserr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=AlNaserr&" height="150" alt="trophy graph"  />
+</div>
 
-### 🔗 تواصل معي:
 
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
 
----
+<br clear="both">
 
-### 🐍 الرسم البياني التفاعلي:
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="csharp logo"  />
+</div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AlNaserr/AlNaserr/output/snake.svg" alt="Snake animation" />
-</p>
 
----
 
-### 🕹️ مساهمات باسلوب Pac-Man:
+<img src="https://raw.githubusercontent.com/AlNaserr/AlNaserr/output/snake.svg" alt="Snake animation" />
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlNaserr/AlNaserr/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlNaserr/AlNaserr/output/pacman-contribution-graph.svg">
-    <img alt="Pacman Graph" src="https://raw.githubusercontent.com/AlNaserr/AlNaserr/output/pacman-contribution-graph.svg">
-  </picture>
-</p>
 
----
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlNaserr/AlNaserr/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlNaserr/AlNaserr/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AlNaserr/AlNaserr/output/pacman-contribution-graph.svg">
+</picture>
+
+
 

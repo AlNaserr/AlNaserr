@@ -1,66 +1,47 @@
-<h2 alig="left">Hi 👋! My name is.. muhammad naser alaa aldin.studying a 👨‍💻Information Engineering the Syrian virtual university {{third year}}/ui.ux Desgenr</h2>
+## Hi 👋! My name is Muhammad Naser Alaa Aldin
+Student at the Syrian Virtual University – Information Engineering (3rd Year)  
+UI/UX Designer
 
+---
 
+![Coding Gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGhtMDljNGMwdXd2Zm15Ym00Zndza29oYXp1d2Yyam1iYW1nYnRmcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EfcdFGyeLvwWA9WPhY/giphy.gif)
 
-<div alig="center">
-  <img height="250" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGhtMDljNGMwdXd2Zm15Ym00Zndza29oYXp1d2Yyam1iYW1nYnRmcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EfcdFGyeLvwWA9WPhY/giphy.gif"  />
-</div>
+---
 
+### The Programming Is My World
 
+---
 
+### Contact Me:
 
-<h4 alig="center">The Programing Is My  World</h4>
+[![Youtube](https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge)]()  
+[![Instagram](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge)]()  
+[![Twitch](https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge)]()  
+[![Discord](https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge)]()  
+[![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)]()  
+[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)]()  
 
+---
 
+![Streak](https://streak-stats.demolab.com?user=AlNaserr&locale=en&mode=daily&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=AlNaserr&layout=compact&theme=gruvbox)
+![Stats](https://github-readme-stats.vercel.app/api?username=AlNaserr&show_icons=true&theme=dracula)
+![Trophies](https://github-profile-trophy.vercel.app?username=AlNaserr)
 
-<div alig="center">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+---
 
+### Languages and Tools:
 
+![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)
+![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg)
+![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)
+![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)
+![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)
+![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)
+![C#](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg)
 
-<div alig="center">
-  <img src="https://streak-stats.demolab.com?user=AlNaserr&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlNaserr&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=7&theme=gruvbox&hide_border=true" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=AlNaserr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=AlNaserr&" height="150" alt="trophy graph"  />
-</div>
+---
 
+![Snake animation](https://raw.githubusercontent.com/AlNaserr/AlNaserr/output/snake.svg)
 
-<br clear="both">
-
-<div alig="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="csharp logo"  />
-</div>
-
-
-<img src="https://raw.githubusercontent.com/AlNaserr/AlNaserr/output/snake.svg" alt="Snake animation" />
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlNaserr/AlNaserr/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlNaserr/AlNaserr/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AlNaserr/AlNaserr/output/pacman-contribution-graph.svg">
-</picture>
-
-<div alig="center">
-  <img src="https://profile-counter.glitch.me/AlNaserr/count.svg?"  />
-</div>
-
+![Pacman Contribution Graph](https://raw.githubusercontent.com/AlNaserr/AlNaserr/output/pacman-contribution-graph.svg)

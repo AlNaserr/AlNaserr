@@ -1,16 +1,16 @@
 <h2 align="left">Hi 👋! My name is.. muhammad naser alaa aldin.studying a 👨‍💻Information Engineering the Syrian virtual university {{third year}}/ui.ux Desgenr</h2>
 
-
+###
 
 <div align="center">
   <img height="250" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGhtMDljNGMwdXd2Zm15Ym00Zndza29oYXp1d2Yyam1iYW1nYnRmcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EfcdFGyeLvwWA9WPhY/giphy.gif"  />
 </div>
 
-
+###
 
 <h4 align="center">The Programing Is My  World</h4>
 
-
+###
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
-
+###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=AlNaserr&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
@@ -30,6 +30,7 @@
   <img src="https://github-profile-trophy.vercel.app?username=AlNaserr&" height="150" alt="trophy graph"  />
 </div>
 
+###
 
 <br clear="both">
 
@@ -49,9 +50,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="csharp logo"  />
 </div>
 
+###
 
 <img src="https://raw.githubusercontent.com/AlNaserr/AlNaserr/output/snake.svg" alt="Snake animation" />
 
+###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlNaserr/AlNaserr/output/pacman-contribution-graph-dark.svg">
@@ -59,9 +62,12 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AlNaserr/AlNaserr/output/pacman-contribution-graph.svg">
 </picture>
 
+###
+
 <div align="center">
   <img src="https://profile-counter.glitch.me/AlNaserr/count.svg?"  />
 </div>
 
+###
 
 
